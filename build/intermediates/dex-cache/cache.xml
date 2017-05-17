@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Androidwoker\TheSecond\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="D:\Androidwoker\TheSecond\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_cb8f0714a4ed441277d9416094dc6cf04eb66f5c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Androidwoker\TheSecond\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="effbbb40c8d4d12e8e0688962f57f95094848d50">
+        <dex dex="D:\Androidwoker\TheSecond\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_020fa85dbd9db3796231d92c094edc35d1008a71\classes.dex" />
+    </item>
+
+</items>

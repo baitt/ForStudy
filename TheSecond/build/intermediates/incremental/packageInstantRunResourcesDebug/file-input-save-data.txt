@@ -1,0 +1,18 @@
+#Internal package file, do not edit.
+#Thu May 11 19:52:56 CST 2017
+1.base=D\:\\Androidwoker\\TheSecond\\build\\intermediates\\res\\resources-debug.ap_
+4.file=D\:\\Androidwoker\\TheSecond\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+1.file=D\:\\Androidwoker\\TheSecond\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+4.set=ANDROID_RESOURCE
+2.base=D\:\\Androidwoker\\TheSecond\\build\\intermediates\\res\\resources-debug.ap_
+3.set=ANDROID_RESOURCE
+2.set=ANDROID_RESOURCE
+2.file=D\:\\Androidwoker\\TheSecond\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+count=5
+1.set=ANDROID_RESOURCE
+3.base=D\:\\Androidwoker\\TheSecond\\build\\intermediates\\res\\resources-debug.ap_
+0.set=ANDROID_RESOURCE
+0.base=D\:\\Androidwoker\\TheSecond\\build\\intermediates\\res\\resources-debug.ap_
+3.file=D\:\\Androidwoker\\TheSecond\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main.xml
+0.file=D\:\\Androidwoker\\TheSecond\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+4.base=D\:\\Androidwoker\\TheSecond\\build\\intermediates\\res\\resources-debug.ap_

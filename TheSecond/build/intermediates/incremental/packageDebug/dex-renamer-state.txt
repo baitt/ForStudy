@@ -1,0 +1,7 @@
+#Thu May 11 19:53:04 CST 2017
+base.0=D\:\\Androidwoker\\TheSecond\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_cb8f0714a4ed441277d9416094dc6cf04eb66f5c
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\Androidwoker\\TheSecond\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_020fa85dbd9db3796231d92c094edc35d1008a71\\classes.dex
+base.1=D\:\\Androidwoker\\TheSecond\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_020fa85dbd9db3796231d92c094edc35d1008a71
+file.0=D\:\\Androidwoker\\TheSecond\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_cb8f0714a4ed441277d9416094dc6cf04eb66f5c\\classes.dex

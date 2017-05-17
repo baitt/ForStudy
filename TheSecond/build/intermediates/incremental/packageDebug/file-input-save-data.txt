@@ -1,0 +1,24 @@
+#Internal package file, do not edit.
+#Thu May 11 19:53:04 CST 2017
+2.base=D\:\\Androidwoker\\TheSecond\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_020fa85dbd9db3796231d92c094edc35d1008a71
+5.file=D\:\\Androidwoker\\TheSecond\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main.xml
+5.set=ANDROID_RESOURCE
+3.base=D\:\\Androidwoker\\TheSecond\\build\\intermediates\\res\\resources-debug.ap_
+6.file=D\:\\Androidwoker\\TheSecond\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+2.set=DEX
+4.base=D\:\\Androidwoker\\TheSecond\\build\\intermediates\\res\\resources-debug.ap_
+count=7
+0.file=D\:\\Androidwoker\\TheSecond\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_cb8f0714a4ed441277d9416094dc6cf04eb66f5c\\classes.dex
+5.base=D\:\\Androidwoker\\TheSecond\\build\\intermediates\\res\\resources-debug.ap_
+4.set=ANDROID_RESOURCE
+6.base=D\:\\Androidwoker\\TheSecond\\build\\intermediates\\res\\resources-debug.ap_
+1.file=D\:\\Androidwoker\\TheSecond\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+1.set=ANDROID_RESOURCE
+2.file=D\:\\Androidwoker\\TheSecond\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_020fa85dbd9db3796231d92c094edc35d1008a71\\classes.dex
+6.set=ANDROID_RESOURCE
+0.base=D\:\\Androidwoker\\TheSecond\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_cb8f0714a4ed441277d9416094dc6cf04eb66f5c
+3.file=D\:\\Androidwoker\\TheSecond\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+3.set=ANDROID_RESOURCE
+1.base=D\:\\Androidwoker\\TheSecond\\build\\intermediates\\res\\resources-debug.ap_
+4.file=D\:\\Androidwoker\\TheSecond\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+0.set=DEX
